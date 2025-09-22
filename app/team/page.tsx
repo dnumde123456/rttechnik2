@@ -73,7 +73,7 @@ const teamMembers = [
 		titleEn: "",
 		titlePl: "",
 		bio: "",
-		image: "/teamMembers/Joanna Kavu.png",
+		image: "placeholderuser.jpg",
 		order: 6
 	},
 	{
@@ -113,7 +113,7 @@ const teamMembers = [
 		titleEn: "",
 		titlePl: "",
 		bio: "",
-		image: "/teamMembers/Maksim Tatarenka.png",
+		image: "placeholderuser.jpg",
 		order: 10
 	}
 ];
