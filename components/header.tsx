@@ -121,7 +121,7 @@ export default function Header() {
               <Link
                 key={link.href}
                 href={isPolish ? link.plHref : link.href}
-                className="text-base font-medium py-2 hover:text-primary transition-colors"
+                className="text-base font-medium text-blue-900 py-2 hover:text-primary transition-colors"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
                 {isPolish ? link.plLabel : link.label}
