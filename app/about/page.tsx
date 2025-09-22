@@ -16,7 +16,7 @@ export default function AboutPage() {
             <h1 className="text-4xl md:text-5xl font-bold mb-6">Decades of Excellence in Clean Room Solutions</h1>
             <p className="text-lg text-muted-foreground mb-8">
               RTTechnik has been at the forefront of clean room technology for over 25 years, delivering exceptional
-              quality and innovative solutions to clients across Poland.
+              quality and innovative solutions.
             </p>
           </div>
         </div>
