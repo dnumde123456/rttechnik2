@@ -18,7 +18,7 @@ export default function AboutPage() {
             </h1>
             <p className="text-lg text-muted-foreground mb-8">
               RTTechnik jest liderem w technologii pomieszczeń czystych od ponad 25 lat, dostarczając wyjątkową jakość i
-              innowacyjne rozwiązania klientom w całej Europie i poza nią.
+              innowacyjne rozwiązania.
             </p>
           </div>
         </div>
