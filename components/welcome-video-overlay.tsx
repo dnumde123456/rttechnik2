@@ -56,7 +56,7 @@ export default function WelcomeVideoOverlay() {
     <div className="fixed inset-0 z-[9999] flex items-center justify-center bg-black">
       <video
         ref={videoRef}
-        src="https://rttechnik.com/wp-content/uploads/2025/07/WELCOME-TO-rttechnik.mp4"
+        src="/WELCOME-TO-rttechnik.mp4"
         autoPlay
         onEnded={handleVideoEnd}
         className="absolute inset-0 w-full h-full object-cover"
