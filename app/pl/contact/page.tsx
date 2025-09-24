@@ -62,8 +62,8 @@ export default function ContactPagePL() {
                   <li>• Ponad 20 lat doświadczenia w technologii cleanroom</li>
                   <li>• Certyfikowane zarządzanie jakością ISO 9001</li>
                   <li>• Kompleksowe rozwiązania od projektu do konserwacji</li>
-                  <li>• Zespół ekspertów z certyfikowanymi specjalistami</li>
-                  <li>• Wsparcie i serwis 24/7</li>
+                  <li>• Zespół ekspertów z branży biotechnologicznej</li>
+                  <li>• Wsparcie i serwis gwarantowane</li>
                 </ul>
               </CardContent>
             </Card>
