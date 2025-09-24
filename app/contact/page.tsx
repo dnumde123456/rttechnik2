@@ -63,7 +63,7 @@ export default function ContactPage() {
                   <li>• ISO 9001 certified quality management</li>
                   <li>• Comprehensive solutions from design to maintenance</li>
                   <li>• Expert team of certified professionals</li>
-                  <li>• 24/7 support and maintenance services</li>
+                  <li>• Support and maintenance services</li>
                 </ul>
               </CardContent>
             </Card>
