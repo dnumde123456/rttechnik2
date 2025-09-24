@@ -20,8 +20,8 @@ const teamMembers = [
 		id: "1",
 		nameEn: "Bernhard Zach",
 		namePl: "Bernhard Zach",
-		titleEn: "CEO and Director",
-		titlePl: "CEO i Dyrektor",
+		titleEn: "CEO and Owner",
+		titlePl: "CEO i Właściciel",
 		bio: "",
 		image: "/teamMembers/Bernhard Zach.png",
 		order: 1
